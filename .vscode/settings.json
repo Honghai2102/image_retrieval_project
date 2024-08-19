@@ -1,0 +1,9 @@
+{
+    "github-actions.workflows.pinned.workflows": [
+        ".github/workflows/build.yml"
+    ],
+    "sonarlint.connectedMode.project": {
+        "connectionId": "honghai2102",
+        "projectKey": "Honghai2102_image_retrieval_project"
+    }
+}
